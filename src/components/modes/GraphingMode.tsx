@@ -447,3 +447,4 @@ export const GraphingMode: React.FC = () => {
     </div>
   );
 };
+

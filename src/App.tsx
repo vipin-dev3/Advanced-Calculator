@@ -118,3 +118,4 @@ export const AppContent: React.FC = () => {
     </div>
   );
 };
+

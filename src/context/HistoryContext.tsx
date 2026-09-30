@@ -89,3 +89,4 @@ export const useHistory = () => {
   if (!context) throw new Error('useHistory must be used within a HistoryProvider');
   return context;
 };
+

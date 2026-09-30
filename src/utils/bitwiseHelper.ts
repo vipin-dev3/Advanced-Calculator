@@ -159,3 +159,4 @@ export function performBitwiseOp(
 
   return clampToWordSize(result, size);
 }
+

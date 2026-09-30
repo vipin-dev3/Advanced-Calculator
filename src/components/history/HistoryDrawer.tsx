@@ -205,3 +205,4 @@ export const HistoryDrawer: React.FC = () => {
     </AnimatePresence>
   );
 };
+

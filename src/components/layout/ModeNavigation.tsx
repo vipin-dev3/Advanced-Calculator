@@ -57,3 +57,4 @@ export const ModeNavigation: React.FC<ModeNavigationProps> = ({ currentMode, onM
     </nav>
   );
 };
+

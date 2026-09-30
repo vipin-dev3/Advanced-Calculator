@@ -50,3 +50,4 @@ export const useSound = () => {
   if (!context) throw new Error('useSound must be used within a SoundProvider');
   return context;
 };
+

@@ -26,3 +26,4 @@ export interface BitwiseState {
   wordSize: WordSize;
   isSigned: boolean;
 }
+

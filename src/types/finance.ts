@@ -56,3 +56,4 @@ export interface TipResult {
   perPersonTip: number;
   perPersonTotal: number;
 }
+

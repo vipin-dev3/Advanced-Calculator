@@ -23,3 +23,4 @@ export interface CurrencyRate {
   symbol: string;
   ratePerUSD: number; // base rate against 1 USD
 }
+

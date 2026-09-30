@@ -546,3 +546,4 @@ export const FinancialMode: React.FC = () => {
     </div>
   );
 };
+

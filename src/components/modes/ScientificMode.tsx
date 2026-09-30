@@ -553,3 +553,4 @@ export const ScientificMode: React.FC = () => {
     </div>
   );
 };
+

@@ -88,3 +88,4 @@ export const HistoryItem: React.FC<HistoryItemProps> = ({ item, onRecall, onDele
     </div>
   );
 };
+

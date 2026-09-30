@@ -41,3 +41,4 @@ export function formatDateFull(timestamp: number): string {
     minute: '2-digit',
   });
 }
+

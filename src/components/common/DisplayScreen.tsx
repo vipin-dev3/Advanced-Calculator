@@ -177,3 +177,4 @@ export const DisplayScreen: React.FC<DisplayScreenProps> = ({
     </div>
   );
 };
+
